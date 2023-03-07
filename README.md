@@ -7,7 +7,7 @@ I've decided to completely change my profession to IT as this field is incredibl
 I have been passionately learning JS, HTML, CSS and currently looking for opportunities to put aquired skills to good use, while bringing real benefit to my future employer! What I lack in experience - I compensate with hard work & passion to evolve.
 
 
-### Skills: REACT / JS / NODE / HTML / CSS / MSOffice / Adope Photoshop
+### Skills:
 
 ### 
 <div>
@@ -18,6 +18,7 @@ I have been passionately learning JS, HTML, CSS and currently looking for opport
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
 
+==================================================================
  
 - 🌱  I am currently completing an IT course - Web-development @Yandex.Practicum 
 - 👯 I’m looking to collaborate on open-source 
