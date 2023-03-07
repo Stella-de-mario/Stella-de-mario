@@ -1,8 +1,8 @@
-# Welcome To My GitHub Profile! <img width="50px" height="50px" src='https://github.com/Stella-de-mario/Stella-de-mario/blob/main/assets/wave.gif' /> 
+# Welcome To My GitHub Profile! <img width="50px" height="50px" src='https://github.com/Stella-de-mario/Stella-de-mario/blob/main/assets/wave.gif' /> I'm Irina 
 
-# I'm Irina  I'm a graduaded Web (Frontend) Developer by Yandex.Prakticum 
+## I'm a graduaded Web (Frontend) Developer by Yandex.Prakticum 
 
-## I've decided to completely change my profession to IT as this field is incredibly exciting for me.
+### I've decided to completely change my profession to IT as this field is incredibly exciting for me.
 
 I have been passionately learning JS, HTML, CSS and currently looking for opportunities to put aquired skills to good use, while bringing real benefit to my future employer! What I lack in experience - I compensate with hard work & passion to evolve.
 
