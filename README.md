@@ -1,4 +1,7 @@
-## Welcome To My GitHub Profile! <img width="30px" height="30px" src='https://github.com/Stella-de-mario/Stella-de-mario/blob/main/assets/wave.gif' /> I'm Irina
+## Welcome To My GitHub Profile! 
+<img width="30px" height="30px" src='https://github.com/Stella-de-mario/Stella-de-mario/blob/main/assets/wave.gif' /> 
+
+## I'm Irina
 
 #### I'm a beginner frontend developer
 
