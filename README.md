@@ -18,7 +18,7 @@ I have been passionately learning JS, HTML, CSS and currently looking for opport
 
 ### You can reach me via:
 
-<a href="mailto: irina17otr@gmail.com"> <img src='https://github.com/Stella-de-mario/Stella-de-mario/blob/main/assets/icons8-gmail-logo.gif' alt='gmail' width='40' height='40'> </a> [<img src='https://github.com/Stella-de-mario/Stella-de-mario/blob/main/assets/icons8-whatsapp.gif' alt='whatsapp' width='40' height='40'>](https://api.whatsapp.com/send?phone=79502019056&Text%me) [<img src='https://github.com/Stella-de-mario/Stella-de-mario/blob/main/assets/icons8-telegram-app.gif' alt='telegram' width='40' height='40'>](https://t.me/stella_de_mario) 
+<a href="mailto: irina17otr@gmail.com"> <img src='https://github.com/Stella-de-mario/Stella-de-mario/tree/master/assets/icons8-gmail-logo.gif' alt='gmail' width='40' height='40'> </a> [<img src='https://github.com/Stella-de-mario/Stella-de-mario/tree/master/assets/icons8-whatsapp.gif' alt='whatsapp' width='40' height='40'>](https://api.whatsapp.com/send?phone=79502019056&Text%me) [<img src='https://github.com/Stella-de-mario/Stella-de-mario/tree/master/assets/icons8-telegram-app.gif' alt='telegram' width='40' height='40'>](https://t.me/stella_de_mario) 
    
 
 ### 
